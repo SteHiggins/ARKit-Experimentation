@@ -1,0 +1,6 @@
+IP: 192.168.1.9
+IP: fe80::aede:48ff:fe00:1122
+IP: fe80::10db:449:9775:b78d
+IP: fe80::e8e7:27ff:fece:7990
+IP: fe80::cc68:aafd:5f80:3bef
+Port: 43286

@@ -1,0 +1,7 @@
+RemoveDynamicRegistrar:true
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/bin/iPhone/Debug/device-builds/iphone8.4-11.4/ARKit_Csharp.app:/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-cache/Link/ARKit_Csharp.exe
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/bin/iPhone/Debug/device-builds/iphone8.4-11.4/ARKit_Csharp.app:/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-cache/Link/mscorlib.dll
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/bin/iPhone/Debug/device-builds/iphone8.4-11.4/ARKit_Csharp.app:/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/bin/iPhone/Debug/device-builds/iphone8.4-11.4/ARKit_Csharp.app:/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-cache/Link/System.dll
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/bin/iPhone/Debug/device-builds/iphone8.4-11.4/ARKit_Csharp.app:/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-cache/Link/System.Xml.dll
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/bin/iPhone/Debug/device-builds/iphone8.4-11.4/ARKit_Csharp.app:/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-cache/Link/System.Core.dll

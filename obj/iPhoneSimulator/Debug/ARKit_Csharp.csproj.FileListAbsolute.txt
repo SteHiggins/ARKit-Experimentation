@@ -1,0 +1,14 @@
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/bin/iPhoneSimulator/Debug/ARKit_Csharp.exe
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/bin/iPhoneSimulator/Debug/ARKit_Csharp.pdb
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/fsharp.png
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/msft_logo.png
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/xamagon.png
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhoneSimulator/Debug/ARKit_Csharp.csproj.CoreCompileInputs.cache
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhoneSimulator/Debug/ARKit_Csharp.exe
+/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhoneSimulator/Debug/ARKit_Csharp.pdb
