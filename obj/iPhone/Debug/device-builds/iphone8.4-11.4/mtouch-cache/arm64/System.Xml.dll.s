@@ -21,7 +21,7 @@ Ldebug_info_begin:
 	.short 2
 	.long 0
 	.byte 8,1
-	.asciz "Mono AOT Compiler 5.10.1 (tarball Wed Apr 25 14:36:22 EDT 2018)"
+	.asciz "Mono AOT Compiler 5.10.1 (tarball Tue May 29 19:16:06 EDT 2018)"
 	.asciz "System.Xml.dll"
 	.asciz ""
 
@@ -121,7 +121,7 @@ jit_code_start:
 	.align 4
 	.no_dead_strip System_Xml_Serialization_XmlIgnoreAttribute__ctor
 System_Xml_Serialization_XmlIgnoreAttribute__ctor:
-.file 1 "/Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.177/src/Xamarin.iOS/mcs/class/System.XML/System.Xml.Serialization/XmlIgnoreAttribute.cs"
+.file 1 "/Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/src/Xamarin.iOS/mcs/class/System.XML/System.Xml.Serialization/XmlIgnoreAttribute.cs"
 .loc 1 45 0 prologue_end
 .word 0xa9be7bfd
 .word 0x910003fd
@@ -191,7 +191,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "C5F5CC37-6BCE-4F6D-A87D-9BF96F80698B"
+	.asciz "4EB5C7D7-AB88-48BD-8C19-AD382B4885C9"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -276,7 +276,7 @@ _mono_aot_file_info:
 	.long 32,520,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0
-	.byte 22,168,69,58,110,130,60,84,180,46,247,68,7,111,181,181
+	.byte 210,215,72,227,226,250,13,249,136,150,66,29,96,163,250,12
 	.globl _mono_aot_module_System_Xml_info
 	.align 3
 _mono_aot_module_System_Xml_info:

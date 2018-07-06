@@ -21,7 +21,7 @@ Ldebug_info_begin:
 	.short 2
 	.long 0
 	.byte 8,1
-	.asciz "Mono AOT Compiler 5.10.1 (tarball Wed Apr 25 14:36:22 EDT 2018)"
+	.asciz "Mono AOT Compiler 5.10.1 (tarball Tue May 29 19:16:06 EDT 2018)"
 	.asciz "System.dll"
 	.asciz ""
 
@@ -121,7 +121,7 @@ jit_code_start:
 	.align 4
 	.no_dead_strip System_Diagnostics_CodeAnalysis_ExcludeFromCodeCoverageAttribute__ctor
 System_Diagnostics_CodeAnalysis_ExcludeFromCodeCoverageAttribute__ctor:
-.file 1 "/Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.177/src/Xamarin.iOS/mcs/class/referencesource/System/sys/system/Diagnostics/CodeAnalysis/ExcludeFromCodeCoverageAttribute.cs"
+.file 1 "/Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/src/Xamarin.iOS/mcs/class/referencesource/System/sys/system/Diagnostics/CodeAnalysis/ExcludeFromCodeCoverageAttribute.cs"
 .loc 1 19 0 prologue_end
 .word 0xa9be7bfd
 .word 0x910003fd
@@ -191,7 +191,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "8E008415-F6C9-4FEE-A4A5-F70D562CB043"
+	.asciz "A94EABC6-9D1F-4469-A116-25CFE02138D9"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -276,7 +276,7 @@ _mono_aot_file_info:
 	.long 32,520,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0
-	.byte 224,91,180,25,23,217,222,118,156,30,89,93,154,210,138,116
+	.byte 17,153,6,212,85,212,174,44,99,103,97,195,82,158,201,114
 	.globl _mono_aot_module_System_info
 	.align 3
 _mono_aot_module_System_info:

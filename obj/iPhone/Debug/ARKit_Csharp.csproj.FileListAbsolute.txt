@@ -13,3 +13,17 @@
 /Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhone/Debug/ARKit_Csharp.csproj.CoreCompileInputs.cache
 /Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhone/Debug/ARKit_Csharp.exe
 /Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhone/Debug/ARKit_Csharp.pdb
+/Users/stevehiggins/Documents/VSO/ARKitExperimentation/bin/iPhone/Debug/ARKit_Csharp.exe
+/Users/stevehiggins/Documents/VSO/ARKitExperimentation/bin/iPhone/Debug/ARKit_Csharp.pdb
+/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/actool/_PartialAppManifest.items
+/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/coremlc/_PartialAppManifest.items
+/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/optimized/fsharp.png
+/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/optimized/msft_logo.png
+/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/optimized/xamagon.png
+/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/optimized/
+/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/ARKit_Csharp.csproj.CoreCompileInputs.cache
+/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/ARKit_Csharp.exe
+/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/ARKit_Csharp.pdb

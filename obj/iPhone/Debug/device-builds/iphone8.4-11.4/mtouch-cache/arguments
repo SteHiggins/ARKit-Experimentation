@@ -1,18 +1,18 @@
-# Version: 11.10.1.177 (d15-7: 7e782c1e)
-# [first argument, ignore] # --cache=/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-cache
-/Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.177/lib/mtouch/mtouch.exe \
-	--dev=/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/bin/iPhone/Debug/device-builds/iphone8.4-11.4/ARKit_Csharp.app \
+# Version: 11.12.0.4 (d15-7: 64fece5f)
+# [first argument, ignore] # --cache=/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mtouch/mtouch.exe \
+	--dev=/Users/stevehiggins/Documents/VSO/ARKitExperimentation/bin/iPhone/Debug/device-builds/iphone8.4-11.4/ARKit_Csharp.app \
 	--executable=ARKit_Csharp \
 	--fastdev \
 	--debug \
 	--linksdkonly \
 	--sdkroot=/Applications/Xcode.app/Contents/Developer \
-	--sdk=11.3 \
+	--sdk=11.4 \
 	--targetver=11.0 \
 	--aot-options=-O=float32 \
 	--http-message-handler=HttpClientHandler \
 	--abi=arm64 \
-	--symbollist=/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-symbols.list \
+	--symbollist=/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-symbols.list \
 	--dsym=no \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
@@ -20,4 +20,8 @@
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	'--target-framework=Xamarin.iOS,v1.0' \
-	--root-assembly=/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/bin/iPhone/Debug/ARKit_Csharp.exe \
+	--root-assembly=/Users/stevehiggins/Documents/VSO/ARKitExperimentation/bin/iPhone/Debug/ARKit_Csharp.exe \
+	-q \
+	-q \
+	-q \
+	-q \

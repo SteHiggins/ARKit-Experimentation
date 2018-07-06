@@ -6,8 +6,8 @@
 	<dict>
 		<key>output-files</key>
 		<array>
-			<string>/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhone/Debug/device-builds/iphone8.4-11.4/actool/bundle/Assets.car</string>
-			<string>/Users/stevehiggins/Documents/ARKit/ARKit_CSharp-master/obj/iPhone/Debug/device-builds/iphone8.4-11.4/actool/partial-info.plist</string>
+			<string>/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/actool/bundle/Assets.car</string>
+			<string>/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/actool/partial-info.plist</string>
 		</array>
 	</dict>
 </dict>
