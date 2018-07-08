@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ARKitDemo
 {
@@ -10,5 +11,6 @@ namespace ARKitDemo
         public string Path { get; set; }
         public string Name { get; set; }
         public nfloat PhysicalWidth { get; set; }
+        public List<Hotspot> Hotspots { get; set; }
     }
 }

@@ -15,6 +15,8 @@ namespace ARKitDemo
     {
         ARSCNView scnView;
 
+        List<TargetImage> TargetImageList = null;
+
         public ARKitController() : base()
         {
 
@@ -65,22 +67,7 @@ namespace ARKitDemo
 
         public override void ViewWillAppear(bool animated)
         {
-            var TargetImageList = new List<TargetImage>();
-
-            TargetImageList.Add(new TargetImage()
-            {
-                ImageSource = Source.Device,
-                Path = "IMG_8230.JPG",
-                Name = "Power Socket",
-                PhysicalWidth = 0.085f
-            });
-            TargetImageList.Add(new TargetImage()
-            {
-                ImageSource = Source.URL,
-                Path = "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX21927671.jpg",
-                Name = "Unicorn",
-                PhysicalWidth = 0.145f
-            });
+            TargetImageList = ImageData.TargetImageList;
 
             var numberOfImages = TargetImageList.Count();
 

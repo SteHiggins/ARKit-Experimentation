@@ -7,40 +7,29 @@
 #include <objc/runtime.h>
 #include <objc/message.h>
 #import <Foundation/Foundation.h>
-#import <ARKit/ARKit.h>
 #import <UIKit/UIKit.h>
+#import <ARKit/ARKit.h>
 #import <SceneKit/SceneKit.h>
 #import <SpriteKit/SpriteKit.h>
 
-@class ARSCNViewDelegate;
 @class UIApplicationDelegate;
+@class ARSCNViewDelegate;
 @class __MonoMac_NSActionDispatcher;
 @class __MonoMac_NSAsyncActionDispatcher;
-@class ARKitDemo_ARDelegate;
 @class AppDelegate;
+@class ARKitDemo_ARDelegate;
 @class ARKitDemo_ARKitController;
 @class __UIGestureRecognizerToken;
 @class __UITapGestureRecognizer;
 @class __NSObject_Disposer;
-
-@interface ARSCNViewDelegate : NSObject<ARSCNViewDelegate> {
-}
-	-(id) init;
-@end
 
 @interface UIApplicationDelegate : NSObject<UIApplicationDelegate> {
 }
 	-(id) init;
 @end
 
-@interface ARKitDemo_ARDelegate : NSObject<ARSCNViewDelegate> {
+@interface ARSCNViewDelegate : NSObject<ARSCNViewDelegate> {
 }
-	-(void) release;
-	-(id) retain;
-	-(int) xamarinGetGCHandle;
-	-(void) xamarinSetGCHandle: (int) gchandle;
-	-(void) renderer:(id)p0 didAddNode:(SCNNode *)p1 forAnchor:(ARAnchor *)p2;
-	-(BOOL) conformsToProtocol:(void *)p0;
 	-(id) init;
 @end
 
@@ -51,6 +40,17 @@
 	-(int) xamarinGetGCHandle;
 	-(void) xamarinSetGCHandle: (int) gchandle;
 	-(BOOL) application:(UIApplication *)p0 didFinishLaunchingWithOptions:(NSDictionary *)p1;
+	-(BOOL) conformsToProtocol:(void *)p0;
+	-(id) init;
+@end
+
+@interface ARKitDemo_ARDelegate : NSObject<ARSCNViewDelegate> {
+}
+	-(void) release;
+	-(id) retain;
+	-(int) xamarinGetGCHandle;
+	-(void) xamarinSetGCHandle: (int) gchandle;
+	-(void) renderer:(id)p0 didAddNode:(SCNNode *)p1 forAnchor:(ARAnchor *)p2;
 	-(BOOL) conformsToProtocol:(void *)p0;
 	-(id) init;
 @end
