@@ -107,6 +107,7 @@
     <Compile Include="ARKitController.cs" />
     <Compile Include="Models\Hotspot.cs" />
     <Compile Include="ImageData.cs" />
+    <Compile Include="OverlayScene.cs" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\fsharp.png" />

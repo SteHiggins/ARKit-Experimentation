@@ -44,6 +44,11 @@ namespace ARKitDemo
                                                                    //tapGesture.delegate = self
 
             scnView.AddGestureRecognizer(tapGesture);
+
+            var viewSize = this.View.Bounds.Size;
+            var overlaySize = new CGSize(viewSize.Width, viewSize.Height);
+            scnView.OverlayScene = new OverlayScene(overlaySize);
+
         }
 
         public void TapAction(UITapGestureRecognizer gestureRecognizer)
