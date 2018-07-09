@@ -1,7 +1,0 @@
-RemoveDynamicRegistrar:true
-/Users/stevehiggins/Documents/VSO/ARKitExperimentation/bin/iPhone/Debug/device-builds/iphone8.4-11.4/ARKit_Csharp.app:/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-cache/Link/ARKit_Csharp.exe
-/Users/stevehiggins/Documents/VSO/ARKitExperimentation/bin/iPhone/Debug/device-builds/iphone8.4-11.4/ARKit_Csharp.app:/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-cache/Link/mscorlib.dll
-/Users/stevehiggins/Documents/VSO/ARKitExperimentation/bin/iPhone/Debug/device-builds/iphone8.4-11.4/ARKit_Csharp.app:/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-cache/Link/Xamarin.iOS.dll
-/Users/stevehiggins/Documents/VSO/ARKitExperimentation/bin/iPhone/Debug/device-builds/iphone8.4-11.4/ARKit_Csharp.app:/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-cache/Link/System.dll
-/Users/stevehiggins/Documents/VSO/ARKitExperimentation/bin/iPhone/Debug/device-builds/iphone8.4-11.4/ARKit_Csharp.app:/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-cache/Link/System.Xml.dll
-/Users/stevehiggins/Documents/VSO/ARKitExperimentation/bin/iPhone/Debug/device-builds/iphone8.4-11.4/ARKit_Csharp.app:/Users/stevehiggins/Documents/VSO/ARKitExperimentation/obj/iPhone/Debug/device-builds/iphone8.4-11.4/mtouch-cache/Link/System.Core.dll
